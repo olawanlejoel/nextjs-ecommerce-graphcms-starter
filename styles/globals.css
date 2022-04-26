@@ -30,6 +30,13 @@ img:hover {
 	transform: scale(1.1);
 }
 
+.nav-price {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	cursor: pointer;
+}
+
 .btn {
 	background-color: #5aa388;
 	color: #fff;
