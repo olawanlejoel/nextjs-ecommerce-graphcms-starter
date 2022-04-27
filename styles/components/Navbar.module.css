@@ -10,6 +10,12 @@
 	font-weight: 600;
 }
 
+@media (max-width: 500px) {
+	.navbar {
+		padding: 20px 50px;
+	}
+}
+
 .logo,
 .nav_price {
 	cursor: pointer;
